@@ -61,7 +61,7 @@ Telegram_YouTube_Summarizer/
 
 ### 🔹 Question Answering Example
 
-![QA Screenshot](https://github.com/ishitachitranshi/Telegram_YouTube_Summarizer/blob/main/bot-summary.png.png)
+![QA Screenshot](https://github.com/ishitachitranshi/Telegram_YouTube_Summarizer/blob/main/bot-qa.png.png)
 
 ---
 
