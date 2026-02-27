@@ -55,7 +55,7 @@ Telegram_YouTube_Summarizer/
 
 ### 🔹 Bot Summary Output
 
-![Summary Screenshot](demo/screenshots/bot-summary.png)
+![Summary Screenshot](https://github.com/ishitachitranshi/Telegram_YouTube_Summarizer/blob/main/bot-summary.png.png)
 
 ---
 
